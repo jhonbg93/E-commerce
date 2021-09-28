@@ -1,6 +1,7 @@
 import {React} from 'react';
-import {Header} from './componentes/Header/index'
-import {ProductosLista, roductosLista} from './componentes/Productos/index'
+import {Header} from './componentes/Header/index';
+import {ProductosLista} from './componentes/Productos/index';
+import 'boxicons';
 
 
 function App() {

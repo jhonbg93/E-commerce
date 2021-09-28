@@ -1,2 +1,2 @@
 # E-commerce
-E-commerce de venta de zapatillas
+E-commerce venta de zapatillas
